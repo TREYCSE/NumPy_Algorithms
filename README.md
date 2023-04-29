@@ -74,8 +74,7 @@
 1. Speech Recognition
 2. Facial Detection
 3. Geolocation
-4. Financial Predictions
-5. Some non-app related Machine Learning AI: Medical Diagnosis/Detection, Agriculture Innovation, Security, and more!
+4. Some non-app related Machine Learning AI: Economic Predictions, Medical Diagnosis/Detection, Agriculture Innovation, Security, and more!
 
-#### Integrating your application with basic machine learning algorithms can boost it to the next level and we see it dailt
+#### Integrating your application with basic machine learning algorithms can boost it to the next level and we see it advancing in our mundane technology daily!
 
