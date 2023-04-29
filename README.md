@@ -70,7 +70,7 @@
 ### Now gradient descent is plotted! However, parameters w, b still need to be updated.
 
 ## But! Before getting in TOO deep into algorithms, how can Machine Learning Algorithms be applied to Apps?
-##### Real World Examples:
+#### Real World Examples:
 1. Speech Recognition
 2. Facial Detection
 3. Geolocation
