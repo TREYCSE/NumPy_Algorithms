@@ -10,11 +10,12 @@
 ### These are Examples below of how Linear Regression and Classification in Supervised Learning Works!
 
 1. With a simple combination of linear algebra and coding, a machine learning algorithm can predict housing prices
+  ![image](https://i.imgur.com/7IGaWVs.jpg)
 2. With Classfication, we can use AI to detect if a patient has cancer!
-
+  ![image](https://i.imgur.com/ljZgdpo.jpg)
 
 # EXAMPLE OF LINEAR REGRESSION
-# One of the most important things when writing a linear regression algorithm is to reduce the chance of error, to have the most accurate and reliable predictions, this is primarily done usimg the Gradient Descent Formula.
+#### One of the most important things when writing a linear regression algorithm is to reduce the chance of error, to have the most accurate and reliable predictions, this is primarily done usimg the Gradient Descent Formula.
 #### In mathematics, this formula has several steps:
 1. Linear Regression Model (update parameters/guesses w, b)
 2. Cost Function J (minimize error of parameters w,b)
