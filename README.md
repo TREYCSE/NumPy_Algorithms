@@ -1,6 +1,6 @@
 ## Numpy is a library in Python that is primarily used by Data Scientists and Machine Learning Professionals
 
-# Machine Learning Algorithms are equations that we code in Python that allow the Machien to not only make direct commands, but to learn from the information and predict new values; Hence, Artificial Intelligence
+# Machine Learning Algorithms are equations that we code in Python that allow the Machine to not only make direct commands, but to learn from the information and predict new values; Hince, Artificial Intelligence
 
 # With a simple combination of linear algebra and coding, a machine learning algorithm can predict housing prices
 
@@ -25,5 +25,5 @@
 
             return total_cost
 
-#### Now this alone is not going to be enough to plot gradient descent in order to view the local or global minima to be able to predict much
+#### Now this alone is not going to be enough to plot gradient descent in order to view the local or global minima to be able to predict any useful output.
 
