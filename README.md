@@ -1,10 +1,8 @@
 # Numpy!
 
-#### Numpy is a library in Python that is primarily used by Data Scientists and Machine Learning Professionals
+#### Numpy is a package in Python that is primarily used by Data Scientists and Machine Learning Professionals for Scientific Computing
 
 #### Tools: Numpy, matplotlib
-
-#### Machine Learning Algorithms are equations that we code in Python that allow the Machine to not only make direct commands, but to learn from the information and predict new values; Hince, Artificial Intelligence
 #### Machine Learning Algorithms can either be Supervised (Linear Regression or Classification) or Unsupervised
 
 ### These are Examples below of how Linear Regression and Classification in Supervised Learning Works!
