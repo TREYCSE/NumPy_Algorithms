@@ -1,4 +1,8 @@
-## Numpy is a library in Python that is primarily used by Data Scientists and Machine Learning Professionals
+## Numpy!
+
+### Numpy is a library in Python that is primarily used by Data Scientists and Machine Learning Professionals
+
+### Tools: Numpy, matplotlib
 
 # Machine Learning Algorithms are equations that we code in Python that allow the Machine to not only make direct commands, but to learn from the information and predict new values; Hince, Artificial Intelligence
 
