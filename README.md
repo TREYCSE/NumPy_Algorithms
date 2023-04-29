@@ -81,3 +81,5 @@
 #### Here's what NumPy would send us if we successfully ran gradient descent until convergence:
   ![image](https://i.imgur.com/CZyVsp3.jpg)
 
+### Check out the ML deplyment example in the repo to see how we can integrate this with user data in a full-stack application (my next step!)
+
