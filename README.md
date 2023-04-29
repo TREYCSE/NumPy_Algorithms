@@ -78,3 +78,6 @@
 
 #### Integrating your application with basic machine learning algorithms can boost it to the next level and we see it advancing in our mundane technology daily!
 
+#### Here's what NumPy would send us if we successfully ran gradient descent until convergence:
+  ![image](https://i.imgur.com/CZyVsp3.jpg)
+
